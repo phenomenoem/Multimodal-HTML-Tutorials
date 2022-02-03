@@ -1,0 +1,20 @@
+h1 {
+    color: pink;
+    font-family: courier;
+} /* Declare that the h1 selector is defined by the properties, color, background-color, and font-family. The values of these properties, respectively, are pink, royal blue, and courier new font */
+
+img {
+    width: 50%;
+}
+
+video {
+    border: dashed;
+}
+
+a {
+    color: palegoldenrod;
+}
+
+body {
+    background-color: royalblue
+}
